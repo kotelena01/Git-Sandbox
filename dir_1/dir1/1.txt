@@ -1,1 +1,4 @@
-hello world loremipsum
+Worlds capitals
+Moscow is the capital of the Russian Federation
+London is the capital of the Great Britain
+Washington is the capital of the USA
